@@ -1,7 +1,7 @@
 # DSN House Price Prediction Project
 
 <p align="center">
-    <img width="900" src=img/housePrice.jpg alt="Houses">
+    <img width="800" src=img/housePrice.jpg alt="Houses">
 </p>
 
 
