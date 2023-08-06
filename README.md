@@ -55,6 +55,13 @@ The figure above further explains the previous. The box plot presents a clear pi
     <img width="900" src=img/evaluation.png alt="evaluation">
 </p>
 
+From the plot, we can see that the predicted prices generally follow the trend of the true prices,
+but there are some discrepancies. For example, there are some houses that were predicted to be
+sold for a higher price than their true price. Conversely, there are some cars that were predicted
+to be sold for a lower price than their true price.
+Overall, the plot suggests that the machine learning model is performing reasonably well, but
+there is still room for improvement
+
 ### How to run the codes
 
 ### Step 1: Donwload Model Notebook and upload to google colab
