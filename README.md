@@ -1,4 +1,4 @@
-# DSN House Price Prediction Project**
+# DSN House Price Prediction Project
 
 <p align="center">
     <img width="900" src=img/housePrice.jpg alt="Houses">
@@ -29,10 +29,24 @@ The objective of this hackathon is to create a powerful and accurate predictive 
 ### Data Explorations
 
 <p align="center">
-    <img width="900" src=img/housePrice.jpg alt="wlHouses">
+    <img width="700" src=img/region_pie_chart.png alt="region_pie_chart">
 </p>
 
 The chart above shows that the six regions exhibit approximately equal proportions of houses. This suggests that all regions hold a significant share of the housing market. Such balanced distribution indicates that housing opportunities are fairly distributed across the area, presenting a positive outlook for potential homebuyers.
+
+<p align="center">
+    <img width="700" src=img/region_bar_chart.png alt="region_bar_chart">
+</p>
+
+From the figure above, the two regions with the highest average house prices are Southwest and South-South. Houses in these regions are generally more expensive compared to other areas. The premium pricing in these regions may be attributed to factors such as proximity to amenities, renowned schools, or desirable neighborhood characteristics. Homebuyers in search of upscale properties and prime locations may find these regions appealing, albeit at a higher cost.
+
+On the other hand, the regions of Southeast, North-Central, Northeast, and Northwest demonstrate the lowest average house prices among all regions. These areas present more affordable housing options, making them attractive to budget-conscious home buyers seeking cost-effective choices.
+
+<p align="center">
+    <img width="700" src=img/region_box_plot.png alt="region_box_chart">
+</p>
+
+The figure above further explains the previous. The box plot presents a clear picture of the distribution of house prices by region. Its symmetrical shape and presence of  outliers across all regions indicate a relatively stable market with high price variability. 
 
 ### Model Evaluation
 
