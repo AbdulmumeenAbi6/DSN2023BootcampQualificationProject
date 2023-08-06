@@ -23,8 +23,9 @@ The objective of this hackathon is to create a powerful and accurate predictive 
     ├── notebooks
     │   ├── FinalSubmission_1.ipynb    
     │   └── FinalSubmission_2.ipynb  
-    ├── img            
-    └── requirements.txt        <- Requirements text file
+    ├── img  
+    ├── DSN House Price Prediction Report.pdf          <- The modelling Report
+    └── requirements.txt                            <- Requirements text file
 
 ### Data Explorations
 
