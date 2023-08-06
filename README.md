@@ -29,7 +29,7 @@ The objective of this hackathon is to create a powerful and accurate predictive 
 ### Data Explorations
 
 <p align="center">
-    <img width="700" src=img/region_pie_chart.png alt="region_pie_chart">
+    <img width="400" src=img/region_pie_chart.png alt="region_pie_chart">
 </p>
 
 The chart above shows that the six regions exhibit approximately equal proportions of houses. This suggests that all regions hold a significant share of the housing market. Such balanced distribution indicates that housing opportunities are fairly distributed across the area, presenting a positive outlook for potential homebuyers.
